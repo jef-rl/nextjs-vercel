@@ -56,7 +56,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{'JEF'}
+          Powered by {'JEF'}
         </a>
       </footer>
     </div>
